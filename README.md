@@ -75,4 +75,4 @@ The general experimental workflow consists of:
 * OpenCV
 * NumPy
 * Roboflow
-* Google Colab / Jupyter Notebook
+* Google Colab
